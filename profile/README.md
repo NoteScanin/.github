@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="NoteScanin Logo" width="200"/>
+  <img src="notescanin-icon.png" alt="NoteScanin Logo" width="200"/>
 </p>
 
 <h1 align="center">Welcome to NoteScanin 👋</h1>
